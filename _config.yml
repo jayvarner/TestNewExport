@@ -18,10 +18,10 @@ defaults:
   values:
     deep_zoom: true
     extra_js:
-    - volume-page.js
-    - hammer.min.js
-    - deepzoom.js
     - openseadragon.min.js
+    - openseadragon-svg-overlay.js
+    - text-annotations.js
+    - viewer.js
     layout: volume_page
     short_label: p.
 - scope:
